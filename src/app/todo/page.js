@@ -3,12 +3,12 @@ import React from 'react';
 export const metadata = {
     title: "Todo Page"
 }
-const page = () => {
+const Todo = () => {
     return (
         <div>
-            Todo page
+            Todo Todo
         </div>
     );
 };
 
-export default page;
+export default Todo;
